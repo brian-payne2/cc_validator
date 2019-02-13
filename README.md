@@ -16,7 +16,7 @@ Python 3.6 installed and configured in your path
 2. Run the script
 
 ```
-python CSV_Importer csv_file_name.csv
+python cc_validator.py
 ```
 
 3. Enter the number of CC numbers to parse
