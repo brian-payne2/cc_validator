@@ -5,6 +5,7 @@ Python utility to parse potential credit card numbers. Checks the following cond
 3. It must only consist of digits (0-9)
 4. It may have digits in groups of 4, separated by one hyphen "-"
 5. It must NOT use any other separator like ' ' , '_', etc. 
+6. It must NOT have 4 or more consecutive repeated digits
 
 ### Requirements
 Python 3.6 installed and configured in your path
